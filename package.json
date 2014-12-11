@@ -1,0 +1,19 @@
+{
+  "name": "tempest",
+  "version": "0.0.1",
+  "description": "Integrated Node.js Development Environment",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "./node_modules/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robinduckett/tempest.git"
+  },
+  "author": "Robin Duckett <robinduckett@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinduckett/tempest/issues"
+  },
+  "homepage": "https://github.com/robinduckett/tempest"
+}
